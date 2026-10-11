@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-个人博客（暂时没钱买域名）：[uu123bb.github.io]
+个人博客（暂时没钱买域名）：[](uu123bb.github.io)
 
 <!--
 **uu123bb/uu123bb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
