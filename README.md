@@ -2,6 +2,10 @@
 
 [个人博客（暂时没钱买域名）](https://uu123bb.github.io)
 
+芝士被迫黄金六小时的高中牲（）
+
+cn（暂定）: 玲音_Reni
+
 <!--
 **uu123bb/uu123bb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
