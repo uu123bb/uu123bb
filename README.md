@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[个人博客（暂时没钱买域名）](https://uu123bb.github.io)
+[个人博客](https://blog.purplezt1475.top)
 
 芝士被迫黄金六小时的高中牲（）
 
