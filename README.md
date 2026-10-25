@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[个人博客（还没开始写东西）](https://blog.purplezt1475.top)
+[个人博客（还没开始写东西）](https://pages.purplezt1475.top)
 
 芝士被迫黄金六小时的高中牲（）
 
