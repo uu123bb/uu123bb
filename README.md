@@ -1,22 +1,15 @@
 ## Hi there 👋
 
-[个人博客（还没开始写东西）](https://pages.purplezt1475.top)
+这里是 **泠雨_Reni**，目前处于高三牲~~黄金六小时~~状态
 
-芝士被迫黄金六小时的高中牲（）
+小小的 **INFP-T** 一只
 
-cn（暂定）: 玲音_Reni
+### 这里是 TA 的几个个人链接
 
-<!--
-**uu123bb/uu123bb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Blog Home](https://pages.purplezt1475.top)
 
-Here are some ideas to get you started:
+[你可以在这里视奸 TA](https://slpy.purplezt1475.top)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 这里是 TA 的几个项目
+
+- [UpDevice（Vibe 的原生 C# Sleepy 上报器）](https://github.com/uu123bb/UpDevice/tree/dev)
