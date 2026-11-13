@@ -14,3 +14,4 @@
 
 - [UpDevice（Vibe 的原生 C# Sleepy 上报器）](https://github.com/uu123bb/UpDevice/tree/dev)
 - [Sleepy_Serverless（Sleepy 针对无持久磁盘的修改，~~也是 Vibe~~，计划加入心跳模式）](https://github.com/uu123bb/sleepy_serverless)
+- [WebSekai](https://github.com/uu123bb/WebSeKai)
